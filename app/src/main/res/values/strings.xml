@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string-array name="teachers">
+        <item>Mr.Merle</item>
+        <item>Mr.Justin</item>
+        <item>Mr.James</item>
+        <item>Mr.Henry</item>
+        <item>Ms.Dori</item>
+        <item>Ms.Bbegi</item>
+        <item>Ms.Diyora</item>
+    </string-array>
+</resources>
